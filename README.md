@@ -1,0 +1,9 @@
+- 👋 Hi, I’m anouar bakouch
+- 👀 I’m interested in ...mobile developement..fullstack engineer
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+linkedin :  https://www.linkedin.com/in/anouar-bakouch-7b4204155/
+
+email : anouar.bakouch@outlook.fr
